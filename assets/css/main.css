@@ -1780,6 +1780,7 @@
 		position: relative;
 		background: #f7f7f7;
 		border-bottom: solid 1px #ccc;
+		border-top: solid 1px #ccc;
 	}
 
 	#main-wrapper {
